@@ -1,6 +1,6 @@
 # chatgpt-prompt-samples
 
-[![ci](https://github.com/prompt-engineering/click-prompt/actions/workflows/ci.yaml/badge.svg)](https://github.com/prompt-engineering/click-prompt/actions/workflows/ci.yaml)
+[![prompt-samples](https://github.com/chenguangwei/chatgpt-prompt-sample/actions/workflows/ci.yaml/badge.svg)](https://github.com/prompt-engineering/click-prompt/actions/workflows/ci.yaml)
 ![GitHub](https://img.shields.io/github/license/chenguangwei/chatgpt-prompt-sample)
 
 
